@@ -1,0 +1,12 @@
+h3 {
+    font-style: italic;
+    color: orange;
+    text-align: center;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-decoration-line: underline;
+    color: purple;
+    text-align: center;
+}
